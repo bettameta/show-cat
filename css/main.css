@@ -1,0 +1,12 @@
+/* Main Body Styles */
+body{
+   background:#a8f57c;   
+}
+/* Button */
+button{
+   background-color: turquoise;
+}
+#lolcatButton{
+   font-size: 1em;
+   color:#1d4e21
+}
